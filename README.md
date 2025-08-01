@@ -19,7 +19,7 @@ TACO es un conjunto de datos de imágenes en crecimiento de desechos en la natur
 
 -         Análisis Exploratorio de Datos en el archivo -> eda-cv-taco-trash.ipynb
 
--         Pruebas iniciales de entrenamiento del modelo yolo -> VCII_Project_testing.ipynb
+-         Pruebas iniciales de entrenamiento del modelo yolo -> testing-modelo-Yolo.ipynb
 
 
 
