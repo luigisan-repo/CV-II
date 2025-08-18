@@ -1,5 +1,11 @@
 tacotrashdataset
 taco_trash_dataset
-tmp
+tmp*
 runs
+conjunto_matrices
+datasets
 taco
+*.yaml
+*.pt
+*.json
+EXP*
